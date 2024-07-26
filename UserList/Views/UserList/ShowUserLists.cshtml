@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+    @ViewData["count"]
+</div>
+<div class="p-1 text-center">
+    <h1>User List Table</h1>
+</div>
+<div class="d-flex justify-content-between">
+<button class="btn-secondary ">
+        <a class="nav-link text-white" asp-area="" asp-controller="UserList" asp-action="CreateUser">Back to Create From</a>
+</button>
+</div>
+<div class="pt-3">
+    <table class="table table-hover text-center">
+        <tr>
+            <th>User Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Salary</th>
+            <th>Gender</th>
+            <th>Action</th>
+        </tr>
+        @for (int i = 0; i < ViewBag.table.Tables[0].Rows.Count; i++)
+        {
+            <tr>
+                <td>@ViewBag.table.Tables[0].Rows[i]["userid"]</td>
+                <td>@ViewBag.table.Tables[0].Rows[i]["firstname"]</td>
+                <td>@ViewBag.table.Tables[0].Rows[i]["lastname"]</td>
+                <td>@ViewBag.table.Tables[0].Rows[i]["salary"]</td>
+                <td>@ViewBag.table.Tables[0].Rows[i]["gender"]</td>
+                <td>
+                    @Html.ActionLink("Delete", "DeleteData", "UserList", new { id = @ViewBag.table.Tables[0].Rows[i]["userid"] }, new { @class = " link-underline-light text-danger" })
+                    @Html.ActionLink("Edit", "CreateUser", "UserList", new { userid = @ViewBag.table.Tables[0].Rows[i]["userid"], firstName = @ViewBag.table.Tables[0].Rows[i]["firstName"], lastName = @ViewBag.table.Tables[0].Rows[i]["lastName"], salary = @ViewBag.table.Tables[0].Rows[i]["salary"], gender = @ViewBag.table.Tables[0].Rows[i]["gender"] }, new { @class = "link-underline-light text-success" })
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+

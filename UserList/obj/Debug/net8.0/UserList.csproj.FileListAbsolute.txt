@@ -1,0 +1,76 @@
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\appsettings.Development.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\appsettings.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\UserList.staticwebassets.runtime.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\UserList.exe
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\UserList.deps.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\UserList.runtimeconfig.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\UserList.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\UserList.pdb
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.GeneratedMSBuildEditorConfig.editorconfig
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.AssemblyInfoInputs.cache
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.AssemblyInfo.cs
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.csproj.CoreCompileInputs.cache
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.MvcApplicationPartsAssemblyInfo.cache
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.RazorAssemblyInfo.cache
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.RazorAssemblyInfo.cs
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets.build.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets.development.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.UserList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.build.UserList.props
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserList.props
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserList.props
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets.pack.json
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\scopedcss\bundle\UserList.styles.css
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\scopedcss\projectbundle\UserList.bundle.scp.css
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\refint\UserList.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.pdb
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.genruntimeconfig.cache
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\ref\UserList.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.csproj.AssemblyReference.cache
+D:\224\DotNetPractice\MVC projects\UserList\UserList\UserList\obj\Debug\net8.0\UserList.csproj.CopyComplete
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\appsettings.Development.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\appsettings.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\UserList.staticwebassets.runtime.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\UserList.exe
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\UserList.deps.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\UserList.runtimeconfig.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\UserList.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\UserList.pdb
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.csproj.AssemblyReference.cache
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.GeneratedMSBuildEditorConfig.editorconfig
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.AssemblyInfoInputs.cache
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.AssemblyInfo.cs
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.csproj.CoreCompileInputs.cache
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.MvcApplicationPartsAssemblyInfo.cache
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.RazorAssemblyInfo.cache
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.RazorAssemblyInfo.cs
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets.build.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets.development.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.UserList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.build.UserList.props
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserList.props
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserList.props
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\staticwebassets.pack.json
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\scopedcss\bundle\UserList.styles.css
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\scopedcss\projectbundle\UserList.bundle.scp.css
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.csproj.CopyComplete
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\refint\UserList.dll
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.pdb
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\UserList.genruntimeconfig.cache
+D:\224\DotNetPractice\MVC projects\MVC app\UserList\UserList\UserList\obj\Debug\net8.0\ref\UserList.dll
